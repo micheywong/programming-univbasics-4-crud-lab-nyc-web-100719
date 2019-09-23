@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   my_family = ["Susie", "Henry", "Michael", "Lauren"]
-  
+  michael_wong = my_family.pop
 end
 
 def remove_element_from_start_of_array(array)
