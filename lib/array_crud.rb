@@ -12,8 +12,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  my_family = ["Susie", "Henry", "Michael", "Lauren"]
-  my_family.unshift("Michelle")
+  array = ["I", "am", "really", "learning"]
+  my_family.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
