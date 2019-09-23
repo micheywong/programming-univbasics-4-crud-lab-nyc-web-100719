@@ -17,8 +17,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  my_family = ["Susie", "Henry", "Michael", "Lauren"]
-  michael_wong = my_family.pop
+  array = ["I", "am", "really", "learning", "arrays!"]
+  michael_wong = array.pop
 end
 
 def remove_element_from_start_of_array(array)
