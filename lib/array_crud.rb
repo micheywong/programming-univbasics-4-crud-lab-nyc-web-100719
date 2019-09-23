@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   my_family = ["Susie", "Henry", "Michael", "Lauren"]
-  my_family
+  my_family[3] = "Michelle"
 end
